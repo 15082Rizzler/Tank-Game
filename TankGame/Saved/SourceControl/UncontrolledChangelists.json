@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/Main_Level.umap",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/BP_PlayerTank.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/IMC_Tank.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/IA_Move.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/GM_Main.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/IA_MoveUpDown.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/IA_MoveLeftRight.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/IA_RotateGun.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/NewMaterial.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/MAT_Black.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/MAT_CamoGreen.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/IA_ShootTank.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/BP_Shell.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/MAT_YellowBright.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/BP_ShellActor.uasset",
+				"C:/Users/Anthony/Documents/Unreal Projects/TankGame/Content/TEST_Shellspawner.uasset"
+			]
+		}
+	]
+}
